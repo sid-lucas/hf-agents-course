@@ -4,7 +4,7 @@ Personal notes and exercises from the [Hugging Face AI Agents Course](https://hu
 
 ## Setup
 
-The course notebooks rely on the Hugging Face Inference API, which is no longer free. The exercises here run locally instead, using [Ollama](https://ollama.com) and its OpenAI-compatible endpoint.
+The exercises run locally using [Ollama](https://ollama.com) 
 
 ```bash
 ollama pull qwen2:7b
