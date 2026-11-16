@@ -24,4 +24,6 @@ unit1/   Fundamentals: LLMs, chat templates, tools, Thought/Action/Observation l
 - [x] Local environment (Ollama + Python venv)
 - [X] Unit 1: dummy agent, step by step
 - [X] Unit 1: first agent with smolagents
-- [ ] Unit 2: agent frameworks
+- [ ] Unit 2.1: smolagents frameworks
+- [ ] Unit 2.2: llamaindex frameworks
+- [ ] Unit 2.3: langgraph frameworks
